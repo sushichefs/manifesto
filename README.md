@@ -1,0 +1,2 @@
+# manifesto
+menu of purpose
